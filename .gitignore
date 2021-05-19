@@ -28,7 +28,7 @@ out/
 /.nb-gradle/
 
 ### VS Code ###
-.vscode/
+
 
 ### Package Files ###
 *.jar
